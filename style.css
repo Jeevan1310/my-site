@@ -206,10 +206,10 @@ header {
   width: 50%;
 }
 .progress-line .javascript {
-  width: 50%;
+  width: 60%;
 }
 .progress-line .python {
-  width: 70%;
+  width: 85%;
 }
 
 .bar .progress-line span::before {
