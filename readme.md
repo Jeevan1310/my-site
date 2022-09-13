@@ -2,7 +2,7 @@
 
 ## About The Repository
 
-<--Info About Repository What type of language are used-->
+Its a simple website to showcase my Skills
 
 ## About The Maintainer
 
@@ -11,4 +11,4 @@
 
 ## Demo Url
 
-<--Demo-->
+<---Demo--->
